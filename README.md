@@ -1,5 +1,5 @@
 # Calculate Total Price
-Classroom example to accompany the CS Fundamentals: Recursion topic.
+Classroom example to accompany the Learning Another Language roundtable.
 
 ## One-Time Activity Setup
 
