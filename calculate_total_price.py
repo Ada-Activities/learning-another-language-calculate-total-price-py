@@ -9,11 +9,11 @@ def calculate_total_price(order):
 
 my_order = [
     {
-        "entre": "Fish Tacos",
+        "entree": "Fish Tacos",
         "price": 14.97,
     },
     {
-        "entre": "Vegan Spaghetti",
+        "entree": "Vegan Spaghetti",
         "price": 21.47,
     },
 ]
